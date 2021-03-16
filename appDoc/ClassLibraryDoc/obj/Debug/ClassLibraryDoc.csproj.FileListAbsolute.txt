@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\obj\Debug\ClassLibraryDoc.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\obj\Debug\ClassLibraryDoc.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\bin\Debug\ClassLibraryDoc.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\bin\Debug\ClassLibraryDoc.pdb
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\bin\Debug\ClassLibraryEntity.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\bin\Debug\ClassLibraryEntity.pdb
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\bin\Debug\ClassLibraryEntity.dll.config
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\obj\Debug\ClassLibraryDoc.csproj.CopyComplete
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\obj\Debug\ClassLibraryDoc.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryDoc\obj\Debug\ClassLibraryDoc.pdb

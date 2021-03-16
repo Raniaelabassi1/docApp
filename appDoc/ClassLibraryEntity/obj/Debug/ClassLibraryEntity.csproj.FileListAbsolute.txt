@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\bin\Debug\ClassLibraryEntity.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\bin\Debug\ClassLibraryEntity.pdb
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\obj\Debug\ClassLibraryEntity.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\obj\Debug\ClassLibraryEntity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\obj\Debug\ClassLibraryEntity.csproj.CopyComplete
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\obj\Debug\ClassLibraryEntity.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\obj\Debug\ClassLibraryEntity.pdb
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\bin\Debug\ClassLibraryEntity.dll.config
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\doctAppnew\appDoc\ClassLibraryEntity\bin\Debug\EntityFramework.SqlServer.xml
